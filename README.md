@@ -1,2 +1,2 @@
-# docker-application-configuration
-Example repo to showcase application configuration using docker deployments.
+# application-configuration-docker
+Dynamic application configuration using a docker based deployment setup.
